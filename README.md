@@ -1,0 +1,1 @@
+this is a secretary task i did for the brain and cognitive science club during summer after my freshmen year based on reinforcement learning here i tried to see some drawacks of q learning and how we can improve it motivated by how the biological brain works 
